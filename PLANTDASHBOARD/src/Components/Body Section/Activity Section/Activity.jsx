@@ -1,7 +1,7 @@
 import React from 'react'
 import './Activity.scss'
 import { BsArrowRightShort } from 'react-icons/bs'
-import img1 from '../../../assets/plantseller.png'
+import img1 from '../../../assets/Plantseller.png'
 import img2 from '../../../assets/plantseller2.png'
 import img3 from '../../../assets/plantseller3.png'
 import img4 from '../../../assets/plantseller4.png'
