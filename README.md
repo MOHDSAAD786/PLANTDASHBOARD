@@ -122,7 +122,7 @@ You can also enhance the dashboard with authentication or real-time data updates
 🚀 SaaS Product Dashboard is live!
 
 Live Demo: https://saas-product-dashboard.onrender.com  
-GitHub Code: https://github.com/MOHDSAAD786/SaaS_Product_dashboard
+GitHub Code: 
 
 #React #WebDevelopment #Frontend #SaaS
 
@@ -131,7 +131,7 @@ Made with ❤️ by Mohd Saad
 
 📧 Email: 011mohdsaad2022cse@gmail.com
 
-🌐 Portfolio: your-portfolio-link.com
+
 
 
 
