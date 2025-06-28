@@ -74,14 +74,14 @@ body{
   padding: 1rem;
 }
 .container{
-  position: relative;
-  width:95vw;
-  height:95vh;
+ position: relative;
+  width: 95vw;
+  min-height: 95vh; 
   display: flex;
   align-items: center;
   justify-content: center;
   background-color: var(--bgColor);
-  overflow: hidden;
+  overflow-y: auto; 
   border-radius: 1rem;
   box-shadow: 2px 2px 8px var(--greyText);
 }
