@@ -9,7 +9,7 @@ import { AiOutlineHeart } from 'react-icons/ai';
   import img2 from '../../../assets/plant3.0.png'
   import img3 from '../../../assets/plant4.0png.webp'
   import img4 from '../../../assets/plant5.0.png'
-  import img6 from'../../../assets/plantseller.png'
+  import img6 from'../../../assets/Plantseller.png'
   import img7 from'../../../assets/plantseller2.png'
   import img8 from'../../../assets/plantseller3.png'
   import img9 from'../../../assets/plantseller4.png'
